@@ -16,3 +16,6 @@ __pycache__/
 *.csv
 *.xlsx
 *.json
+
+# Environment file
+.env
